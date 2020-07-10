@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**bashrc2/bashrc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` ansi
+  ____    ____   _____ __ __  ____      __ 
+ |    \  /    T / ___/|  T  T|    \    /  ]
+ |  o  )Y  o  |(   \_ |  l  ||  D  )  /  / 
+ |     T|     | \__  T|  _  ||    /  /  /  
+ |  O  ||  _  | /  \ ||  |  ||    \ /   \_ 
+ |     ||  |  | \    ||  |  ||  .  Y\     |
+ l_____jl__j__j  \___jl__j__jl__j\_j \____j
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            Committing at random
+           
+      XMPP+OMEMO: bob@freedombone.net
+PGP: 9ABB82C00ABF39F82680487DCC2536191FA7C33F
+```
