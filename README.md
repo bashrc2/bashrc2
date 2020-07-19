@@ -12,4 +12,8 @@
            
       XMPP+OMEMO: bob@freedombone.net
 PGP: 9ABB82C00ABF39F82680487DCC2536191FA7C33F
+    Blog: https://blog.freedombone.net
+
+          https://freedombone.net
+          gemini://freedombone.net
 ```
