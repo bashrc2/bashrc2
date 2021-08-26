@@ -10,10 +10,10 @@
 
             Committing at random
            
-      XMPP+OMEMO: bob@freedombone.net
-PGP: 9ABB82C00ABF39F82680487DCC2536191FA7C33F
-    Blog: https://blog.freedombone.net
+      XMPP+OMEMO: bob@libreserver.org
+PGP: BAA93142617A8220C1B5144505657E4FEAE474A1
+    Blog: https://blog.libreserver.org
 
-          https://freedombone.net
-          gemini://freedombone.net
+          https://libreserver.org
+          gemini://libreserver.org
 ```
