@@ -16,6 +16,11 @@ PGP: BAA93142617A8220C1B5144505657E4FEAE474A1
 
           https://libreserver.org
           gemini://libreserver.org
-```
 
-My projects appear on Github for reasons of availability and searchability. This does not imply endorsement of Github's policies or business practices. The same projects are also available on Gitlab, Codebarg, and elesewhere.
+My projects appear on Github for reasons of
+availability and searchability. This does
+not imply endorsement of Github's policies
+or business practices. The same projects are
+also available on Gitlab, Codebarg, and
+elsewhere.
+```
