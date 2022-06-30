@@ -21,6 +21,6 @@ My projects appear on Github for reasons of
 availability and searchability. This does
 not imply endorsement of Github's policies
 or business practices. The same projects are
-also available on Gitlab, Codebarg, and
+also available on Gitlab, Codeberg, and
 elsewhere.
 ```
