@@ -8,7 +8,7 @@
  |     ||  |  | \    ||  |  ||  .  Y\     |
  l_____jl__j__j  \___jl__j__jl__j\_j \____j
 
-       Coding for a better internet
+           Live Free. Code Hard.
            
       XMPP+OMEMO: bob@libreserver.org
 PGP: BAA93142617A8220C1B5144505657E4FEAE474A1
