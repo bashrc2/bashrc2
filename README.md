@@ -8,19 +8,18 @@
  |     ||  |  | \    ||  |  ||  .  Y\     |
  l_____jl__j__j  \___jl__j__jl__j\_j \____j
 
-           Live Free. Code Hard.
+      Free Software for a Free People
            
-      XMPP+OMEMO: bob@libreserver.org
+      Email/XMPP+OMEMO: bob@libreserver.org
 PGP: BAA93142617A8220C1B5144505657E4FEAE474A1
-    Blog: https://blog.libreserver.org
+     Blog: https://blog.libreserver.org
 
           https://libreserver.org
           gemini://libreserver.org
 
 My projects appear on Github for reasons of
-availability and searchability. This does
-not imply endorsement of Github's policies
-or business practices. The same projects are
-also available on Gitlab, Codeberg, and
-elsewhere.
+availability and searchability. I do not approve
+of nor endorse Microsoft policies. To contribute
+to these projects you can do so via Gitlab or
+Codeberg, or send patches directly via email.
 ```
