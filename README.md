@@ -12,6 +12,7 @@
            
       Email/XMPP+OMEMO: bob@libreserver.org
 PGP: BAA93142617A8220C1B5144505657E4FEAE474A1
+    LXMF: 94f5a77e10335dcc858451702ebfe2c0
      Blog: https://blog.libreserver.org
 
           https://libreserver.org
