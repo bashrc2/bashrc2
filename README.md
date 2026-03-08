@@ -22,7 +22,8 @@
       Email/XMPP+OMEMO: bob@libreserver.org
 PGP: 01FC65EA8D972B9B38507B0C1CE52E4545E58017
     LXMF: 94f5a77e10335dcc858451702ebfe2c0
-     Blog: https://blog.libreserver.org
+      Blog: https://blog.libreserver.org
+    Fediverse: @bob@epicyon.libreserver.org
 
           https://libreserver.org
           gemini://libreserver.org
