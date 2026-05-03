@@ -17,7 +17,7 @@
            ●   ●   ●     ● ●   ●  
            ● ● ● ● ● ● ● ● ● ● ● ●
 
-      Free Software for a Free People
+      Free as in free from AI bullshit
 
       Email/XMPP+OMEMO: bob@libreserver.org
 PGP: 01FC65EA8D972B9B38507B0C1CE52E4545E58017
